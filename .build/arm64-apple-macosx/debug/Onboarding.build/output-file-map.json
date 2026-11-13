@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/master.swiftdeps"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/OnboardingBackground.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingBackground.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingBackground.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingBackground~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingBackground.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingBackground.dia"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/OnboardingPage.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingPage.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingPage.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingPage~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingPage.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingPage.dia"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/OnboardingState.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingState.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingState.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingState~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingState.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingState.dia"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/OnboardingView.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingView.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingView.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/OnboardingView.dia"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/PageIndicators.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PageIndicators.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PageIndicators.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PageIndicators~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PageIndicators.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PageIndicators.dia"
+  },
+  "/Users/mbc/personal/intro/Sources/Onboarding/PrimaryCapsuleButtonStyle.swift": {
+    "dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PrimaryCapsuleButtonStyle.d",
+    "object": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PrimaryCapsuleButtonStyle.swift.o",
+    "swiftmodule": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PrimaryCapsuleButtonStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PrimaryCapsuleButtonStyle.swiftdeps",
+    "diagnostics": "/Users/mbc/personal/intro/.build/arm64-apple-macosx/debug/Onboarding.build/PrimaryCapsuleButtonStyle.dia"
+  }
+}
